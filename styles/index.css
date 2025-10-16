@@ -5,3 +5,17 @@ h1 {
 body {
     font-family: 'Work Sans', sans-serif;
 }
+
+input[type="tel"]{
+    margin-bottom: 0;
+}
+
+small{
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+input[type="tel"],
+input[type="file"]{
+    margin-bottom: 0;
+}
